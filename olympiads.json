@@ -3,13 +3,13 @@
         {
             "id": "1",
             "name": "Росатом",
-            "level: 2,
+            "level": 2,
             "description: "",
-            "link: ""
+            "link": ""
         },
         {
             "id": "2",
-            "name": 'Криптография',
+            "name": "Криптография",
             "level": 2,
             "description": "",
             "link": ""
