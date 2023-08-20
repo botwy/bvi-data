@@ -1,0 +1,25 @@
+{
+  "olympiads": [
+        {
+            "id": "1",
+            "name": "Росатом",
+            "level: 2,
+            "description: "",
+            "link: ""
+        },
+        {
+            "id": "2",
+            "name": 'Криптография',
+            "level": 2,
+            "description": "",
+            "link": ""
+        },
+        {
+            "id": '3',
+            "name": "Финуниверситет",
+            "level": 2,
+            "description": "",
+            "link": ""
+        }
+    ]
+}
