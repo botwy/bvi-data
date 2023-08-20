@@ -4,7 +4,7 @@
             "id": "1",
             "name": "Росатом",
             "level": 2,
-            "description: "",
+            "description": "",
             "link": ""
         },
         {
@@ -15,7 +15,7 @@
             "link": ""
         },
         {
-            "id": '3',
+            "id": "3",
             "name": "Финуниверситет",
             "level": 2,
             "description": "",
