@@ -5,7 +5,8 @@
             "name": "Росатом",
             "level": 2,
             "description": "Отраслевая математическая олимпиада школьников Росатом",
-            "link": "https://olymp.mephi.ru/rosatom/about"
+            "link": "https://olymp.mephi.ru/rosatom/about",
+            "linkTitle": "Портал олимпиад МИФИ"
         },
         {
             "id": "2",
