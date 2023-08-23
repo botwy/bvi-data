@@ -43,6 +43,317 @@
               "code": "math",
               "title": "Математика"
             }
+        },
+
+     {
+            "id": "1",
+            "name": "Росатом",
+            "level": 2,
+            "description": "Отраслевая математическая олимпиада школьников Росатом",
+            "subject": {
+              "code": "math",
+              "title": "Математика"
+            },
+            "link": {
+              "title": "Портал олимпиад МИФИ",
+              "urlStr": "https://olymp.mephi.ru/rosatom/about"
+            }
+        },
+        {
+            "id": "2",
+            "name": "Криптография",
+            "level": 2,
+            "description": "",
+            "subject": {
+              "code": "math",
+              "title": "Математика"
+            }
+        },
+        {
+            "id": "3",
+            "name": "Финуниверситет",
+            "level": 2,
+            "description": "",
+            "subject": {
+              "code": "math",
+              "title": "Математика"
+            }
+        },
+        {
+            "id": "4",
+            "name": "Покори Воробъевы горы",
+            "level": 1,
+            "description": "",
+            "subject": {
+              "code": "math",
+              "title": "Математика"
+            }
+        },
+     {
+            "id": "1",
+            "name": "Росатом",
+            "level": 2,
+            "description": "Отраслевая математическая олимпиада школьников Росатом",
+            "subject": {
+              "code": "math",
+              "title": "Математика"
+            },
+            "link": {
+              "title": "Портал олимпиад МИФИ",
+              "urlStr": "https://olymp.mephi.ru/rosatom/about"
+            }
+        },
+        {
+            "id": "2",
+            "name": "Криптография",
+            "level": 2,
+            "description": "",
+            "subject": {
+              "code": "math",
+              "title": "Математика"
+            }
+        },
+        {
+            "id": "3",
+            "name": "Финуниверситет",
+            "level": 2,
+            "description": "",
+            "subject": {
+              "code": "math",
+              "title": "Математика"
+            }
+        },
+        {
+            "id": "4",
+            "name": "Покори Воробъевы горы",
+            "level": 1,
+            "description": "",
+            "subject": {
+              "code": "math",
+              "title": "Математика"
+            }
+        },
+     {
+            "id": "1",
+            "name": "Росатом",
+            "level": 2,
+            "description": "Отраслевая математическая олимпиада школьников Росатом",
+            "subject": {
+              "code": "math",
+              "title": "Математика"
+            },
+            "link": {
+              "title": "Портал олимпиад МИФИ",
+              "urlStr": "https://olymp.mephi.ru/rosatom/about"
+            }
+        },
+        {
+            "id": "2",
+            "name": "Криптография",
+            "level": 2,
+            "description": "",
+            "subject": {
+              "code": "math",
+              "title": "Математика"
+            }
+        },
+        {
+            "id": "3",
+            "name": "Финуниверситет",
+            "level": 2,
+            "description": "",
+            "subject": {
+              "code": "math",
+              "title": "Математика"
+            }
+        },
+        {
+            "id": "4",
+            "name": "Покори Воробъевы горы",
+            "level": 1,
+            "description": "",
+            "subject": {
+              "code": "math",
+              "title": "Математика"
+            }
+        },
+
+
+     {
+            "id": "1",
+            "name": "Росатом",
+            "level": 2,
+            "description": "Отраслевая математическая олимпиада школьников Росатом",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            },
+            "link": {
+              "title": "Портал олимпиад МИФИ",
+              "urlStr": "https://olymp.mephi.ru/rosatom/about"
+            }
+        },
+        {
+            "id": "2",
+            "name": "Криптография",
+            "level": 2,
+            "description": "",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            }
+        },
+        {
+            "id": "3",
+            "name": "Финуниверситет",
+            "level": 2,
+            "description": "",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            }
+        },
+        {
+            "id": "4",
+            "name": "Покори Воробъевы горы",
+            "level": 1,
+            "description": "",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            }
+        },
+     {
+            "id": "1",
+            "name": "Росатом",
+            "level": 2,
+            "description": "Отраслевая математическая олимпиада школьников Росатом",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            },
+            "link": {
+              "title": "Портал олимпиад МИФИ",
+              "urlStr": "https://olymp.mephi.ru/rosatom/about"
+            }
+        },
+        {
+            "id": "2",
+            "name": "Криптография",
+            "level": 2,
+            "description": "",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            }
+        },
+        {
+            "id": "3",
+            "name": "Финуниверситет",
+            "level": 2,
+            "description": "",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            }
+        },
+        {
+            "id": "4",
+            "name": "Покори Воробъевы горы",
+            "level": 1,
+            "description": "",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            }
+        },
+     {
+            "id": "1",
+            "name": "Росатом",
+            "level": 2,
+            "description": "Отраслевая математическая олимпиада школьников Росатом",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            },
+            "link": {
+              "title": "Портал олимпиад МИФИ",
+              "urlStr": "https://olymp.mephi.ru/rosatom/about"
+            }
+        },
+        {
+            "id": "2",
+            "name": "Криптография",
+            "level": 2,
+            "description": "",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            }
+        },
+        {
+            "id": "3",
+            "name": "Финуниверситет",
+            "level": 2,
+            "description": "",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            }
+        },
+        {
+            "id": "4",
+            "name": "Покори Воробъевы горы",
+            "level": 1,
+            "description": "",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            }
+        },
+     {
+            "id": "1",
+            "name": "Росатом",
+            "level": 2,
+            "description": "Отраслевая математическая олимпиада школьников Росатом",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            },
+            "link": {
+              "title": "Портал олимпиад МИФИ",
+              "urlStr": "https://olymp.mephi.ru/rosatom/about"
+            }
+        },
+        {
+            "id": "2",
+            "name": "Криптография",
+            "level": 2,
+            "description": "",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            }
+        },
+        {
+            "id": "3",
+            "name": "Финуниверситет",
+            "level": 2,
+            "description": "",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            }
+        },
+        {
+            "id": "4",
+            "name": "Покори Воробъевы горы",
+            "level": 1,
+            "description": "",
+            "subject": {
+              "code": "computerScience",
+              "title": "Информатика"
+            }
         }
     ]
 }
