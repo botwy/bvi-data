@@ -13,6 +13,14 @@
               {
                 "title": "Портал олимпиад МИФИ",
                 "urlStr": "https://olymp.mephi.ru/rosatom/about"
+              },
+              {
+                "title": "График проведения заключительного этапа",
+                "urlStr": "https://olymp.mephi.ru/rosatom/stages/final"
+              },
+               {
+                "title": "Задания прошлых лет",
+                "urlStr": "https://olymp.mephi.ru/rosatom/about/traning/task_of_previous_years"
               }
             ]
         },
